@@ -1,0 +1,11 @@
+.Project {
+
+}
+
+.contact {
+    flex-direction: row;
+    display: flex;
+    font-family: sans-serif;
+    justify-content: space-around;
+    padding-top: 10px;
+}
